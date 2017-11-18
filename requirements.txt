@@ -1,0 +1,5 @@
+Django==1.10.6
+Markdown==2.6.9
+Pygments==2.2.0
+pytz==2017.3
+selenium==3.7.0
